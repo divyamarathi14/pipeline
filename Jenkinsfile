@@ -1,4 +1,4 @@
-Bhagya Meka2:28 PM
+
 pipeline {
 	agent any  
 	stages {
